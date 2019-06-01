@@ -282,6 +282,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #061aad;}
     background: rgba(31,44,108,.3);
 }
 .single-about-img img {
+	background:url(../images/about/profilepic.jpg)no-repeat;
     max-width: 450px;
     height: 450px;
 }
